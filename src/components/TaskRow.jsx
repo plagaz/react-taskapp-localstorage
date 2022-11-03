@@ -1,4 +1,4 @@
-export const TaskRow = ({ task,toggleTask}) => {
+export const TaskRow = ({ task, toggleTask }) => {
   return (
     <tr>
       <td>
